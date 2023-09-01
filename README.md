@@ -26,7 +26,8 @@ Here are some of the key technologies and languages I work with:
 
 Feel free to connect with me on LinkedIn or follow me on Twitter for updates on my projects and other tech-related content:
 
-- LinkedIn: Alvi Azirin(https://www.linkedin.com/in/alvi-azirin-5a0a89171/)
+- LinkedIn: Alvi Azirin([https://www.linkedin.com/in/alvi-azirin-5a0a89171/])
+- Twitter: [@SiAlviarz]([https://twitter.com/SiAlviarz])
 
 ## Contact
 
