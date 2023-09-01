@@ -1,6 +1,3 @@
-
-![alviazirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alviazirin&show_icons=true&theme=radical)
-
 Hi there I'm Alvi Maghfiranto Azirin👋
 
 
@@ -43,7 +40,7 @@ Let's build amazing things together!
 
 Here are some ideas to get you started:
 
-
+![alviazirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alviazirin&show_icons=true&theme=radical)
 
 
 
