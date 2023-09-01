@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate mobile applications developer mai
 - 🌐 Web Developer
 - 💡 Always eager to learn and explore new things
 - 🎯 Goal-driven and committed to delivering high-quality software
-- 🌱 I’m currently learning 
 
 ## Skills
 
