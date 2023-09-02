@@ -21,7 +21,9 @@ Here are some of the key technologies and languages I work with:
 - UI/UX Design: Figma
 - Database: Firebase, SQLite
 
+![alviazirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alviazirin&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alviazirin&layout=compact)](https://github.com/alviazirin/github-readme-stats)
 
 ## Connect with Me
 
