@@ -22,7 +22,7 @@ Here are some of the key technologies and languages I work with:
 - Database: Firebase, SQLite
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alviazirin&layout=compact)](https://github.com/alviazirin/github-readme-stats)
-
+![alviazirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alviazirin&show_icons=true&theme=radical)
 ## Connect with Me
 
 Feel free to connect with me on LinkedIn or follow me on Twitter for updates on my projects and other tech-related content:
